@@ -1,0 +1,26 @@
+
+
+.credit {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: 32.5vw;
+  top: 20vh;
+  height: 70vh;
+  justify-content: space-evenly;
+}
+.credit input{
+
+  width: 30vw;
+  margin-bottom: 4vh;
+}
+.credit button{
+  margin-top: 5vh;
+  height: 7vh;
+  width: 15vw;
+  font-size: 1.5rem;
+  margin-left: 17vh;
+  border-radius: 17px;
+}
+
+
